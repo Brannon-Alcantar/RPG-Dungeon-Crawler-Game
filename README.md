@@ -5,7 +5,7 @@ This is more or less a way for me to go back and view my previous work and see h
 
 In this game, I have a pre-determined list of scenarios that happen randomly as you traverse the dungeon. Depeneding on whether or not you say yes or no to the prompts different things happen. 
 
-The game originally wasn't supposed to end until your character dies. However for the sake of time I actually had made it so that it ended at 5 scenarios max so that my professor didnt have to go through the same scenario constantly until they died. There are scenarios where your character is healed so it prolonged the game. 
+The game originally was supposed to end when your character dies. However for the sake of time I actually had made it so that it ended at 5 scenarios max so that my professor didnt have to go through the same scenario constantly until they died. Since its random, sometimes you would get the same scenario over and over again. There are also scenarios where your character is healed so it prolonged the game. 
 
 I think if I were to make changes to this I would make it have some sort of ending like you reached the end of the dungeon and get a special reward. Also, I wanted to put any items the character recieved in an external file but I wasn't able to get that to work on time before that deadline. I think instead I would just put the items the character recieved in a stack or a linked-list of sorts and display the list that way.
 
